@@ -20,7 +20,7 @@ const Home = ({ setSelectedPage }: Props) => {
         <div className="mt-[101px] md:basis-2/4">
           <div>
             <h1 className=" font-Recursive text-xl font-semibold leading-[97.5px] text-primary-600 max-md:pt-9 max-sm:text-md max-sm:leading-[30px]">LYZA BEAUTY <br /> PRODUCTS</h1>
-            <p className="mt-[70px] text-xs font-Recursive font-semibold max-lg:mt-[20px] ">LYZA beauty products adopts a strong cultural and <br /> ethical approach to business</p>
+            <p className="mt-[70px] text-xs font-Recursive font-semibold max-lg:mt-[20px]">LYZA beauty products adopts a strong cultural and <br /> ethical approach to business</p>
           </div>
           <div className="mt-[155px] max-md:mt-[60px] max-lg:my-10 max-sm:mt-[70px]">
             <AnchorLink 
